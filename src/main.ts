@@ -1,4 +1,6 @@
+// @ts-ignore
 import gsap from 'https://cdn.skypack.dev/gsap'
+// @ts-ignore
 import splitting from 'https://cdn.skypack.dev/splitting'
 
 const anchors = document.querySelectorAll('a [aria-hidden]')
